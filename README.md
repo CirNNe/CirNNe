@@ -1,7 +1,8 @@
 Opa, eu sou Higor Cirne!
 
 <div>
-Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão desde novo. Atualmente estou cursando ADS e criando um carinho enorme pelo Python <a href="<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>"
+Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão desde novo. Atualmente estou cursando ADS e criando um carinho enorme pelo Python <img src="https://img.icons8.com/color/48/000000/python--v1.png">
+  
 <div>
   
   #
