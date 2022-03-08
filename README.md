@@ -17,10 +17,11 @@ Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão 
  <img align="right" src="https://media3.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" alt="computer | GIF | PrimoGIF" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" data-noaft="1" style="width: 100px; height: 100px; margin: 0px;">
 </div>
 
-<div align="left">
+<div align="leftr">
   <a href="https://github.com/CirNNe">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CirNNe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CirNNe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CirNNe&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   
 </div>
