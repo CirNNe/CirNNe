@@ -18,15 +18,14 @@ Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão 
 </div>
   
 </div>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 </div>
 
 ##
   
-
 <div>
-   <img align="right" src="https://media3.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" alt="computer | GIF | PrimoGIF" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb"   data-noaft="1" style="width: 100px; height: 100px; margin: 0px;">
+   <img align="right" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/82MkOzEyyXeSLkgWyv/giphy.gif" alt="computer | GIF | PrimoGIF" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb"   data-noaft="1" >
 </div>
 
 </div>
