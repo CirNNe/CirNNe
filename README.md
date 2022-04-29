@@ -19,7 +19,6 @@ Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão 
   
 </div>
   <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img align="center" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img align="center" src="https://img.icons8.com/color/48/css3.png"/>
   <img align="center" src="https://img.icons8.com/color/48/javascript--v1.png"/>
