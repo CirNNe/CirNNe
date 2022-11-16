@@ -1,10 +1,10 @@
 Opa, eu sou Higor Cirne! <br />
 Sou de Recife - PE (vulgo Hellcifence 🔥) <br />
-24 anos <br />
+25 anos <br />
 Casado <br />
 
 <div>
-Inspetor de Qualidade do ramo eólico migrando para a área Tech, minha paixão desde novo. Atualmente estou cursando ADS e criando um carinho enorme pelo Python 👨‍💻
+Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, em paralelo, me especializando em desenvolvimento web backend com o framework Django. 👨‍💻
   
 <div>
   
