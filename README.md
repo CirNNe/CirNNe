@@ -19,9 +19,9 @@ Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, e
   
 </div>
   <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <!-- <img align="center" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img align="center" src="https://img.icons8.com/color/48/css3.png"/>
-  <img align="center" src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img align="center" src="https://img.icons8.com/color/48/javascript--v1.png"/> -->
   <img align="center" src="https://img.icons8.com/color/65/mysql-logo.png"/>
 </div>
 
@@ -33,7 +33,7 @@ Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, e
 
 </div>
   <a href="https://www.instagram.com/higordev_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/higoroseudev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<!-- <a href="https://www.twitch.tv/higoroseudev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
   <a href="https://www.linkedin.com/in/higorcirne/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
