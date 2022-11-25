@@ -4,7 +4,7 @@ Sou de Recife - PE (vulgo Hellcifence 🔥) <br />
 Casado <br />
 
 <div>
-Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, em paralelo, me especializando em desenvolvimento web backend com o framework Django. 👨‍💻
+Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, em paralelo, me especializando em desenvolvimento web backend Python com o framework Django. 👨‍💻
   
 <div>
   
