@@ -4,7 +4,9 @@ Recife - PE <br />
 Casado <br />
 
 <div>
-Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, em paralelo, me especializando em desenvolvimento web backend com a linguagem Python e o framework Django. 👨‍💻
+Cursando Análise e Desenvolvimento de Sistemas, atualmente no 3º período e, em paralelo, me especializando em desenvolvimento backend com Python e suas tecnologias.
+
+Conhecimento em banco de dados relacionais como MySQL, SQLite e ORM com a biblioteca SQLAlchemy. 👨‍💻 
   
 <div>
   
