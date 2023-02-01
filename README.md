@@ -26,6 +26,7 @@
 <h2> Back-end </h2>
 <div align="center">
   <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img align="center" src="https://img.icons8.com/color/55/java-coffee-cup-logo.png"/>
 </div>
   
 <h2> Front-end </h2>
