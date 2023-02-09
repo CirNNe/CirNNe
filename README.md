@@ -1,7 +1,7 @@
 <h2> Sobre </h2>
 <div align="left">
   
-  Meu nome é Higor Cirne
+  Meu nome é Higor Cirne <br/>
   Desenvolvedor Back-end Web 👨‍💻<br/>
   Recife - PE <br/>
   25 anos <br/>
