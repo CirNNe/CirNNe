@@ -26,8 +26,8 @@
 <div align="center">
   <img align="center" src="https://img.icons8.com/color/55/java-coffee-cup-logo.png"/>
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-grails-285288.png?f=webp&w=45"/>
-  <img align="center" src="https://avatars.githubusercontent.com/u/297723?s=48&v=4"/>
   <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-226047.png?f=webp&w=45"/>
+  <img align="center" src="https://avatars.githubusercontent.com/u/297723?s=48&v=4"/>
 </div>
   
 <h2> Front-end </h2>
