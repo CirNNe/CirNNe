@@ -1,9 +1,9 @@
 <h2> Sobre </h2>
 <div align="left">
   
-  Desenvolvedor Back-end 👨‍💻<br/>
+  Desenvolvedor Fullstack 👨‍💻<br/>
   Recife - PE <br/>
-  25 anos <br/>
+  27 anos <br/>
   Casado <br/>
   Análise e Desenvolvimento de Sistemas
   
@@ -24,27 +24,23 @@
 
 <h2> Back-end </h2>
 <div align="center">
-  <img align="center" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <img align="center" src="https://img.icons8.com/color/55/java-coffee-cup-logo.png"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-grails-285288.png?f=webp&w=45"/>
+  <img align="center" src="https://avatars.githubusercontent.com/u/297723?s=48&v=4"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-postgresql-226047.png?f=webp&w=45"/>
 </div>
   
 <h2> Front-end </h2>
 <div align="center">
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-angular-3-226070.png?f=webp&w=35"/>
   <img align="center" src="https://img.icons8.com/color/45/javascript.png">
-  <img align="center" src="https://img.icons8.com/color/45/html-5.png"/>
-  <img align="center" src="https://img.icons8.com/fluency/45/css3.png"/>
-  <img align="center" src="https://img.icons8.com/color/45/bootstrap.png"/>
-</div>
-  
-<h2> Banco de Dados </h2>
-<div align="center">
-  <img align="center" src="https://img.icons8.com/color/50/mysql-logo.png"/>
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sqlite_icon_130153.png"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=35"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=35"/>
+  <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=35"/>
 </div>
   
 <h2> Sociais </h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/higorcirne/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/45/linkedin.png"/>
   <a href="https://www.instagram.com/higordev_/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/45/instagram-new.png"/>
-  <a href="https://www.youtube.com/channel/UCFM5zJjOapkANJOtKHCwHTw" target="_blank"><img align="center" src="https://img.icons8.com/color/45/youtube-play.png"/>
 </div>
